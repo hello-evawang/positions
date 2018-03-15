@@ -1,0 +1,90 @@
+# 2018-Technical-positions
+# 2018年高端技术类岗位-容器和调度需求
+###  第一岗位、软件编译团队Leader-美国，杭州
+#### 团队介绍
+我们计划成立一个软件编译团队，通过在编译层面进行优化来大幅提升软件的性能，
+降低机器投入的成本，作为一个提供研发协作的统一平台，意味着可以对在这个平台上编译的各种软件来进行优化，我们相信在软件编译上的深耕细作可以带来明显的效益。
+
+####  职位描述
+作为软件编译团队的Leader，
+工作的职责主要是：
+1. 抽象集团上的各种软件类型，提出编译优化的方向，并推演优化所能带来的大概成果；
+2. 组建软件编译团队，加速提升阿里巴巴在软件编译这个方向的能力，并带领团队拿到相应的成果；
+3. 和对应知名高校的相应领域建立合作关系，增强集团在软件编译方向的创新能力；
+4. 在基于集团编译创新优化成果的基础上，和团队一起通过开源、发表论文等建设集团在这个技术领域的品牌。
+####  岗位要求
+1. 硕士以上学历；
+2. 在软件编译领域有超过5年以上的经验，熟悉多种软硬件编译优化技术，
+例如Graal、LLVM、JIT、GCC、ECJ、C1/C2 Compiler、Profile-Guided Compiler Optimization、Feedback Compiler Optimization等，
+并对编译领域目前的状况和未来的发展有自己的判断和观点；
+3. 通过软件编译技术优化过多种类型的软件，例如Java、C、数据库等，并带来大幅成本收益；
+4. 有带领技术团队的经验，有组建团队经历的优先；
+5. 在软件编译领域有知名作品的优先。
+ 
+### 第二岗位、Senior Staff Engineer of JVM 资深专家-JVM-杭州/美国
+#### 团队介绍：
+We are building the Knights of the Java Table to: Optimize and Customize OpenJDK for group
+We would also drive new directions to advance Java technologies through standards and technical forums.
+We would collaborate with Java experts in the world to make Java better for everybody.
+#### 岗位描述：
+AJDK（/AJVM)是基于OpenJDK（/HotSpot），根据集团的业务场景高度定制的JDK版本，力求在稳定性，性能优化，
+以及技术前瞻性方面，满足集团快速发展的业务需求。本岗位主要负责AJDK的的设计、开发、调试和优化。
+探索利用创新Runtime技术去优化系统性能、应用开发效率等。 
+
+#### JVM团队的目标和方向
+#### 目标：公共云上最好的JDK
+#### 方向：
+1. 在Coroutine、GC方向上突破创新，大幅降低集团的Java运行成本，GC上主要是为特定大规模场景定制化GC；
+2. 在软硬件结合上寻求突破，例如序列化/反序列化等；
+3. 成为Java社区的重要力量，推动OpenJDK、Java的发展，和学术界在语言层面进行各种创新的合作。
+#### 集团的优势：
+拥有全球最大规模的Java集群，基于这个集群一方面可以看到世界级的技术挑战，另一方面可以通过快速的迭代、反馈来进行创新突破，
+同时阿里现在强调以科技，创新世界，所以JVM团队的成果不仅仅希望影响到阿里，更希望对整个世界的Java技术发展做出贡献。
+JDK(aka AJDK) is based on OpenJDK, all of group’ online applications are run on AJDK.
+We customize the OpenJDK to meet group business requirements, optimize the java stack for cost saving.
+You will be a key member of the JVM team in technical infrastructure development group responsible for developing new features for AJDK,
+optimizing software and exploring innovative runtime technology to improve the overall system performance.
+#### 岗位要求：
+1. 有强烈的技术热情，工作责任感。 
+2. 技术兴趣广泛，具备迅速掌握解决问题所需技术的方法和能力。 
+3. 思维严谨，逻辑清晰，具备批判性思维能力和习惯。 
+4. 具备扎实的计算机专业基础，包括算法和数据结构、操作系统、计算机体系结构等。 
+5. 熟练掌握C/C++/Java作为开发语言，具备优秀的编程素养，对代码质量追求完美。 
+6. 熟练掌握调试工具和调试方法，具备调试复杂软件的能力（比如虚拟机或编译器）。 
+7. 具备下列一项或多项领域知识或设计和开发经验甚佳：系统性能分析工具和方法，编译优化技术，编译器设计和开发。 
+1. Passion on technology, self-motivated 
+2. Fast learner and ability to adapt to and work in fast-pacing environment 
+3. Independent and innovative thinker who communicates well and delivers 
+4. Good understanding of basic computer Science concepts (data structures, algorithms, operating system, computer architecture etc.) 
+5. Strong design/coding skilling in c/c++/java 
+6. Strong background in debugging complex system software, familiar with Linux debugging tools 
+7. Strong experience in optimizations and performance analysis 
+8. Solid experience in developing JVMs (Java Virtual Machines) and JIT compilers
+### 第三个岗位：机器学习异构系统优化高级专家  杭州市/美国
+#### 岗位描述：
+#### 支持集团在机器学习领域异构系统的建构和优化 
+Construct and optimize very large scale heterogeneous computing platforms to support group's various machine learning applications
+#### 岗位要求：
+1. 深入理解目前流行的多种机器学习平台、ML模型和算法；对未来的机器学习、异构硬件系统等技术发展有非常好的敏感度 
+2. 负责过编译器的研发和交付过程，扎实的编译器原理和优化知识 
+3. 熟悉微处理器和指令架构，有在异构系统下的模型性能分析、优化经验 
+4. 具备较强的团队驱动能力和沟通能力，积极主动，勇于面对未来技术发展的不确定性和挑战 
+5. 计算机科学及相关专业，有扎实的计算机软件、算法基础知识 
+Deep understanding of  machine learning algorithms and various platforms; good commanding of future development of machine learning algorithms, platforms, and eco system. 
+Solid knowledge in compiler principles and optimization technologies; extensive experience in design and implementation of various stages of production grade compiler;
+Comfortable with designs of compiler internal representation; 
+Great understanding of performance challenges of very large scale heterogeneous computing architecture;  good experience in tuning performance with such kind of systems; 
+Familiar with modern microprocessor and instruction set architectures; 
+Great driving ability and communication skills to push through the entire product from the initial specification to the final delivery 
+Major in computer science or related fields, MS or PhD preferred; excellent programming skills in C++ and Python
+
+### 第四个岗位：某拟上市公司（估值超1000亿美元）-GPU异构机器学习技术专家-AI
+#### 岗位描述：
+负责GPU异构机器学习平台的大规模GPU模型训练和在线推理，GPU平台的优化和深度学习算法加速。
+#### 岗位要求：
+1. 精通C/C++，Python编程，有很强的动手能力。
+2. 了解GPU架构，熟悉CUDA编程，cublas/cudnn等加速库的使用。
+3. 对多线程性能分析和调优或者异构系统的优化有实际经验。
+#### 可加分选项:
+1. 熟悉机器学习算法或者机器学习平台(tensorflow/caffe等)。
+2. 熟悉分布式通讯优化。
