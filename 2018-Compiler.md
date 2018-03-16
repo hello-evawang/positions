@@ -88,3 +88,5 @@ Major in computer science or related fields, MS or PhD preferred; excellent prog
 #### 可加分选项:
 1. 熟悉机器学习算法或者机器学习平台(tensorflow/caffe等)。
 2. 熟悉分布式通讯优化。
+
+### （联系方式：eva.wang_hunter@foxmail.com   电话微信同号：15900779704）
