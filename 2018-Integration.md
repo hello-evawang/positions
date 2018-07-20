@@ -1,5 +1,4 @@
 # 2018-Technical-positions
-## 2018年高端技术类岗位需求
 ## Infrastructure/Cloud/Architecture/ DataCenter/ algorithm/ DevOps/ engineering
 ###  -资深应用运维(staff eng/senior staff/principal)-杭州/北京/美国
 ###  -专有云研发架构师 Technical Infrastructure Architect of Apsara Stack-北京，杭州，美国(staff eng/senior staff/principal)
